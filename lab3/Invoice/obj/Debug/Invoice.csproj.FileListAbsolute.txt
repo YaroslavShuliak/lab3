@@ -1,0 +1,6 @@
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\bin\Debug\Invoice.exe
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\bin\Debug\Invoice.pdb
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\obj\Debug\Invoice.exe
+C:\Users\ZAKHAR\GIT3\lab3\Invoice\obj\Debug\Invoice.pdb
